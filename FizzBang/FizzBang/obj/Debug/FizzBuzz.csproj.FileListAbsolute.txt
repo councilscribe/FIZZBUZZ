@@ -1,0 +1,9 @@
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\bin\Debug\FizzBang.exe.config
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\bin\Debug\FizzBang.exe
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\bin\Debug\FizzBang.pdb
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\obj\Debug\FizzBang.FizzBuzz.resources
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\obj\Debug\FizzBang.Properties.Resources.resources
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\obj\Debug\FizzBuzz.csproj.GenerateResource.Cache
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\obj\Debug\FizzBang.exe
+c:\users\6002303\documents\visual studio 2015\Projects\FizzBang\FizzBang\obj\Debug\FizzBang.pdb
